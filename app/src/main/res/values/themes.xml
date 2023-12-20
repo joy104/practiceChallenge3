@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PracticeChalle" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+
+        <item name="android:statusBarColor" tools:targetApi="l">#31A2FC</item>
+    </style>
+
+    <style name="Theme.PracticeChalle" parent="Base.Theme.PracticeChalle" />
+
+
+
+
+
+
+
+
+
+
+
+</resources>

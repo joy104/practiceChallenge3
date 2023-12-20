@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item
+            android:id="@+id/homme"
+            android:icon="@drawable/homeicon"
+            android:title="Home"
+            />
+        <item
+        android:id="@+id/mytrip"
+        android:icon="@drawable/mytripsicon"
+        android:title="My Trips"
+        />
+        <item
+        android:id="@+id/alert"
+        android:icon="@drawable/alerticon"
+        android:title="Alert"
+        />
+
+        <item
+        android:id="@+id/Me"
+        android:icon="@drawable/me"
+        android:title="Me"
+        />
+
+
+
+
+
+
+
+
+</menu>
